@@ -57,10 +57,10 @@ UC Berkeley
 [Probability for Data Science](http://prob140.org/)  
 [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)  
 
-MIT
+MIT  
 [Machine Learning](http://courses.csail.mit.edu/6.036/)  
 [Deep Learning](https://deeplearning.mit.edu/)  
 
-Stanford
+Stanford  
 [Machine Learning](https://see.stanford.edu/course/cs229)  
 [Deep Learning](http://cs231n.github.io/)  
