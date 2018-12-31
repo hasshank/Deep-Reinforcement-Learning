@@ -45,7 +45,8 @@
 ### Papers/books
 
 ...  
-[Concise Machine Learning](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf)  
+[Concise Machine Learning](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf) 
+[Reinforcement Learning](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)   
 [Deep Learning](http://www.deeplearningbook.org/)  
 ...
 
