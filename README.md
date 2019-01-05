@@ -64,4 +64,4 @@ MIT
 
 Stanford  
 [Machine Learning](https://see.stanford.edu/course/cs229)  
-[Deep Learning](http://cs231n.github.io/)  
+[Deep Learning](http://cs231n.stanford.edu/)  
